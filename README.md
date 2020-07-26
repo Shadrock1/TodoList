@@ -1,6 +1,6 @@
 # My Todo List Laravel.
 
-Working on authorization ans multiple users. 
+Working on authorization and multiple users. 
 
 ```
 Update soon!
